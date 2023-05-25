@@ -4,7 +4,7 @@ const app = express();
 
 //app.use(cors);
 
-const port  = process.env.port || 7001;
+const port  = process.env.PORT || 7001;
 
 const apiData = require("./projectData.json");
 
@@ -16,6 +16,6 @@ app.get("/projectdata",(req,res)=>{
     res.send(apiData);
 })
 
-app.listen(port,()=>{
+app.listen(port,"0.0.0.0",()=>{
     console.log("Server is up and running... @",port)
 })
