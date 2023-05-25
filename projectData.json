@@ -1,4 +1,5 @@
-[{"id":1,"type":"MERN","title":"Project Tasty Kitchen","description":"Created an app that will fetch data from an internal server, displaying that data, using component lifecycle methods, routing concepts, authentication, and authorization. User/pwd: david/the_miller@23","projectUrl":"https://maheshktastykit.ccbp.tech/login"},
+{"Projects":[
+    {"id":1,"type":"MERN","title":"Project Tasty Kitchen","description":"Created an app that will fetch data from an internal server, displaying that data, using component lifecycle methods, routing concepts, authentication, and authorization. User/pwd: david/the_miller@23","projectUrl":"https://maheshktastykit.ccbp.tech/login"},
 {"id":2,"type":"MERN","title":"NxtWave Shopping Cart","description":"I have used jtw token, product filtering,rating etc User/pwd: david/the_miller@23(as api is athenitcated against this user)","projectUrl":"https://maheshnxtfilter.ccbp.tech/login"},
 {"id":3,"type":"MERN","title":"React Timeline demo","description":"This project demonstrate the usage of react veritcal timeline usage","projectUrl":"https://maheshccbptmln.ccbp.tech/"},
 {"id":4,"type":"MERN","title":"Pkemon application","description":"Fetches data from the api and display the pokemons and when clicked on individual pokemon an info is displayed beside the main panel","projectUrl":"https://pokemon-app-181b5.web.app/"},
@@ -17,4 +18,6 @@
 {"id":17,"type":"DYNAMIC","title":"HIDE & SHOW CLOCK","description":"toggling the clock display","projectUrl":"https://clockapphook.ccbp.tech/"},
 {"id":18,"type":"DYNAMIC","title":"CREDIT CARD EMULATION","description":"dynamically display credit details","projectUrl":"https://creditcardapp.ccbp.tech/"},
 {"id":19,"type":"DYNAMIC","title":"CODER LEADERBOARD","description":"display the code toppers in a tabular format","projectUrl":"https://leaderbrdap.ccbp.tech/"}
-]
+
+]}
+
